@@ -1,0 +1,19 @@
+h2 {
+    text-shadow:2px 2px rgb(245, 101, 101);
+    font-family: 'Satisfy', cursive;
+    font-size: 50px;
+}
+
+body{
+    background-color: rgb(123, 176, 223);
+    font-family: 'Gloria Hallelujah', cursive;
+}
+.items{
+    font-size: 17px;
+}
+
+#camera{
+    border: 2px ridge grey;
+    width: 375px;
+    height: 325px;
+}
